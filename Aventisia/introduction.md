@@ -15,9 +15,9 @@ By the end of this course, you'll have a solid understanding of:
 
 + How to build and run workflows on Aventisia
 
-+ Setting up your workspace for your business
++ Setting up workspace for your business
 
 With these building blocks in place, you'll be ready to dive deeper into Aventisia's advanced features and unlock its full potential for your business.
 
 ## Up next
-Next, learn how to 
+Next, learn how to [Sign-in](aventisia/public-docs/Aventisia/signing-in.md) to use Aventisia
