@@ -48,6 +48,25 @@ Compare two lists and create a new list with the items that are common to both
 - **Subtract lists:**
 Compare two lists and create a new list with the items that are in the first list but not in the second
 
+- **Retrive data table column into list:**
+Convert the contents of a data table column into a list
+
+- **Convert JSON to custom object:**
+Convert JSON to custom object
+
+- **Convert custom object to JSON:**
+Convert a JSON string to a custom object
+- **Add new item list:**
+Append a new item to a list
+
+- **Create new list:**
+Create a new empty list
+
+- **Increase variable:**
+Increase the value of a variable by a specific amount
+
+
+
 
 
 
