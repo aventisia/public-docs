@@ -13,8 +13,39 @@ Here is an overview of the workflow logic, with a focus on the available buildin
 
 These building blocks manipulate and manage data within the workflow.
 
-- **Truncate Number**:  
-  Extracts integral or fractional digits from a numeric value, or rounds to a specified number of decimal places.
+### **Truncate Number**  :  
+ The **Truncate Number** action is used to manipulate numeric values by either extracting specific parts of the number or rounding it to a defined precision. This operation does not perform standard rounding (where a number is rounded up or down based on its value), but instead truncates (cuts off) the number at a specified decimal place or integral digit.
+
+ There are a few key aspects of this operation:
+
+ 1. **Extracting Integral Digits**:  
+    - If you want to isolate only the whole number part of a decimal, you can use truncation to remove the fractional (decimal) part. For example, truncating  `23.6789` to 0 decimal places would result in `23`.
+
+ 2. **Extracting Fractional Digits**:  
+   - If you need to isolate only the fractional part of a number, truncation can remove the integral part. For example, truncating `23.6789` to 3 decimal places would result in `0.678`.
+
+ 3. **Rounding to a Specific Decimal Place**:  
+    - Truncating can be used to "round down" a number to a particular number of decimal places without rounding up. For example, truncating `23.6789` to 2 decimal places results in `23.67`, as the digits after the second decimal place are simply cut off without rounding.
+
+ #### Example Scenarios:
+ - **Truncate to 0 Decimal Places**:  
+   `Truncate(23.6789, 0)` → `23`  
+   This removes the decimal part completely.
+ 
+ - **Truncate to 2 Decimal Places**:  
+   `Truncate(23.6789, 2)` → `23.67`  
+   This keeps only the first two decimal places.
+ 
+ - **Truncate to 3 Decimal Places**:  
+   `Truncate(23.6789, 3)` → `23.678`  
+   This keeps the first three decimal places and removes anything after.
+ 
+ #### Key Points:
+ - **Non-Rounding Behavior**: Truncating is different from rounding because it will never round a number up. For example, truncating `2.999` to 1 decimal place results in `2.9`, rather than rounding it to `3.0`.
+   
+ - **Precision Control**: Truncating allows you to have precise control over the number of digits you want to keep, especially useful in cases where rounding might introduce undesirable approximations.
+ 
+ In summary, the **Truncate Number** function is a way to manipulate and control the decimal or integral parts of a number, offering consistent and non-rounding results for specific use cases in calculations.
 
 - **Generate Random Number**:  
   Creates one or multiple random numbers within a defined range.
