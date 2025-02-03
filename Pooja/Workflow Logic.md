@@ -1,217 +1,186 @@
 # Workflow Logic
+ ![image](https://github.com/user-attachments/assets/f9b58447-4863-4ebc-b10f-eb4b71fd7fa4)
 
-![image](https://github.com/user-attachments/assets/93812de5-a0ed-42e6-927b-caac8264b47f)
 
-Here in you will find 
-### Variable
-### DataTable
-### Conditions
-### Loops
-### Flow Control
-### Run Flow
-### HTTP
+Here is an overview of the workflow logic, with a focus on the available building blocks:
 
-![image](https://github.com/user-attachments/assets/a0005a9d-94ae-4c4b-8d8c-7af330ae276e)
+  ![image](https://github.com/user-attachments/assets/8706c36e-f822-48be-9ae5-71a50cb4f536)
 
-## Variable
 
-- **Truncate number:**
-Get the integral or fractional digits of a numeric value, or round up the value to a specified number of decimal places
+## Variables
 
-- **Generate random number:**
-Generate a random number or a list of random numbers that fall between a minimum and maximum value
+These building blocks manipulate and manage data within the workflow.
 
-- **Clear list:**
-Remove all item from a list
+- **Truncate Number**:  
+  Extracts integral or fractional digits from a numeric value, or rounds to a specified number of decimal places.
 
-- **Remove item from list:**
-Remove one or multiple items from a list
+- **Generate Random Number**:  
+  Creates one or multiple random numbers within a defined range.
 
-- **Sort list:**
-Sort the items of a list. Use items of the same type
+- **Clear List**:  
+  Empties the contents of a list.
 
-- **Shuffle list:**
-Create a random permutation of a list
+- **Remove Item from List**:  
+  Deletes one or multiple items from a list.
 
-- **Merge lists:**
-Merge two lists into one
+- **Sort List**:  
+  Arranges list items in ascending or descending order (items must be of the same type).
 
-- **Reverse list:**
-Reverse the order of the items of a list
+- **Shuffle List**:  
+  Randomizes the order of items in a list.
 
-- **Remove duplicate items from list list:**
-Remove the multiple occurrences of items in a list, so that in the resulting list each item is unique
+- **Merge Lists**:  
+  Combines two lists into a single list.
 
-- **Find common list items:**
-Compare two lists and create a new list with the items that are common to both
+- **Reverse List**:  
+  Inverts the order of items within a list.
 
-- **Subtract lists:**
-Compare two lists and create a new list with the items that are in the first list but not in the second
+- **Remove Duplicate Items from List**:  
+  Eliminates duplicate items, ensuring each item appears only once.
 
-- **Retrive data table column into list:**
-Convert the contents of a data table column into a list
+- **Find Common List Items**:  
+  Compares two lists and creates a new list containing only the common items.
 
-- **Convert JSON to custom object:**
-Convert JSON to custom object
+- **Subtract Lists**:  
+  Compares two lists and creates a new list containing items present in the first list but not the second.
 
-- **Convert custom object to JSON:**
-Convert a JSON string to a custom object
-- **Add new item list:**
-Append a new item to a list
+- **Retrieve Data Table Column into List**:  
+  Converts the contents of a data table column into a list.
 
-- **Create new list:**
-Create a new empty list
+- **Convert JSON to Custom Object**:  
+  Transforms JSON data into a custom object.
 
-- **Increase variable:**
-Increase the value of a variable by a specific amount
+- **Convert Custom Object to JSON**:  
+  Transforms a custom object into a JSON string.
 
-- **Decrease variable:**
-Decrease the value of a variable by a specific amount
+- **Add New Item to List**:  
+  Appends a new item to an existing list.
 
-- **Run Power Fx expression:**
-Runs the provided Power Fx expression
+- **Create New List**:  
+  Creates an empty list.
 
-- **Set variable:**
-Set the value of a new or existing variable, create a new variable or overwrite a previously created variable
+- **Increase Variable**:  
+  Increments the value of a variable by a specified amount.
 
-## DataTable
+- **Decrease Variable**:  
+  Decrements the value of a variable by a specified amount.
 
-- **Create new data table:**
-Creates a new data table variable
+- **Run Power Fx Expression**:  
+  Executes a provided Power Fx expression.
 
-- **Insert row into data table:**
-Inserts a row at the end or before a specific
-index value
+- **Set Variable**:  
+  Assigns a value to a new or existing variable, creating a new variable or overwriting a previous one.
 
-- **Delete row from data table:**
-Delete a data table row at the corresponding row
-index
+## DataTable Actions
 
-- **Update data table item:**
-Update a data table row item on a defined
-column
+- **Create new data table**:  
+  Creates a new data table variable.
 
-- **Find or replace in data table:**
-Finds and/or replaces data table values
+- **Insert row into data table**:  
+  Inserts a row at the end or before a specific index value.
 
-- **Insert column into data table:**
-Inserts a column at the end or before a specific index value
+- **Delete row from data table**:  
+  Deletes a data table row at the corresponding row index.
 
-- **Delete column from data table:**
-Delete a data table column at the specified
-column index or column name
+- **Update data table item**:  
+  Updates a data table row item in a defined column.
 
-- **Delete empty rows from data table:**
-Deletes the rows of the data table that have all of
-their cells empty
+- **Find or replace in data table**:  
+  Finds and/or replaces data table values.
 
-- **Delete duplicate rows from data table:**
-Deletes all the rows that are duplicate from the
-data table, if the values have the same data type in
-each column
+- **Insert column into data table**:  
+  Inserts a column at the end or before a specific index value.
 
-- **Clear data table:**
-Deletes all the rows of the data table, keeping
-table headers unaffected
+- **Delete column from data table**:  
+  Deletes a data table column at the specified column index or by column name.
 
-- **Sort data table:**
-Sorts the data table rows in ascending or
-descending order by the specified column, if all its
-values have the same data type
+- **Delete empty rows from data table**:  
+  Deletes rows in the data table that have all of their cells empty.
 
-- **Filter data table:**
-Filters the data table rows based on the applied
-rules
+- **Delete duplicate rows from data table**:  
+  Deletes all rows that are duplicates based on matching data types in each column.
 
-- **Merge data tables:**
-Merges two data tables together, specifying the
-merging behavior in case their number of columns
-is different
+- **Clear data table**:  
+  Deletes all rows of the data table, keeping the table headers unaffected.
 
-- **Join data tables:**
-Joins two data tables based on the specified join
-rule
+- **Sort data table**:  
+  Sorts the rows in ascending or descending order by the specified column, if all its values share the same data type.
 
-- **Read from CSV text variable:**
-Generates a data table from a CSV text
+- **Filter data table**:  
+  Filters the rows of the data table based on applied rules.
 
-- **Convert data table to text:**
-Converts a data table to a CSV text
+- **Merge data tables**:  
+  Merges two data tables together, specifying how to handle differences in the number of columns.
+
+- **Join data tables**:  
+  Joins two data tables based on the specified join rule.
+
+- **Read from CSV text variable**:  
+  Generates a data table from CSV text.
+
+- **Convert data table to text**:  
+  Converts a data table into CSV text format.
 
 ## Conditionals
-- **Conditional:**
-Dispatches execution to different parts of the
-switch body based on the value of the expression.
+
+- **Conditional**:  
+  Dispatches execution to different parts of the flow based on the value of the expression.
 
 ## Loops
-- **Loop:**
-Iterates a block of actions for a specified number
-of times
+
+- **Loop**:  
+  Iterates a block of actions for a specified number of times.
 
 ## Flow Control
-- **Comment:**
-User comment
 
-- **End:**
-Signifies the end of a block
+- **Comment**:  
+  User comment.
 
-- **End region:**
-Marks the end of a group of actions
+- **End**:  
+  Marks the end of a block.
 
-- **Exit subflow:**
-Exits current subflow and returns to the point it
-was called from
+- **End region**:  
+  Marks the end of a group of actions.
 
-- **Get last error:**
-Retrieves the last error that occurred in the flow
+- **Exit subflow**:  
+  Exits the current subflow and returns to the point where it was called from.
 
-- **Go to:**
-Transfers the flow of execution to another point,
-indicated by a label
+- **Get last error**:  
+  Retrieves the last error that occurred in the flow.
 
-- **Label:**
-Acts as the destination of a 'go to' statement
+- **Go to**:  
+  Transfers the flow of execution to a designated point, indicated by a label.
 
-- **On block error:**
-Marks the beginning of a block to handle actions
-errors
+- **Label**:  
+  Acts as the destination of a 'go to' statement.
 
-- **Region:**
-Marks the beginning of a group of actions
+- **On block error**:  
+  Marks the beginning of a block for handling errors in actions.
 
-- **Run subflow:**
-Run a subflow specifying any required
-arguments
+- **Region**:  
+  Marks the start of a group of actions.
 
-- **Stop flow:**
-Terminates the flow
+- **Run subflow**:  
+  Runs a subflow with any required arguments.
 
-- **Wait:**
-Suspends the execution of the flow for a
-specified number of seconds
+- **Stop flow**:  
+  Terminates the flow.
+
+- **Wait**:  
+  Pauses the execution of the flow for a specified number of seconds.
+
 ## Run Flow
-- **Run desktop flow:**
-Runs a desktop flow that can receive input
-variables and might produce output variables. The
-parent flow run will be paused until the called
-desktop flow completes
 
-## HTTP
-- **Download from web:**
-Downloads text or a file from the web and stores
-it
+- **Run desktop flow**:  
+  Runs a desktop flow that can receive input variables and might produce output variables. The parent flow will be paused until the desktop flow completes.
 
-- **Invoke SOAP web service:**
-Invokes a method from a SOAP web service
+## HTTP Actions
 
-- **Invoke web service:**
-Invokes a web service and stores the response
-text
+- **Download from web**:  
+  Downloads text or a file from the web and stores it.
 
+- **Invoke SOAP web service**:  
+  Invokes a method from a SOAP web service.
 
-
-
-
-
-
-
+- **Invoke web service**:  
+  Invokes a web service and stores the response text.
