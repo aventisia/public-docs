@@ -15,6 +15,24 @@ Here in you will find
 
 ## Variable
 
+**Truncate number:**
+Get the integral or fractional digits of a numeric value, or round up the value to a specified number of decimal places
+**Generate random number:**
+Generate a random number or a list of random numbers that fall between a minimum and maximum value
+
+**Clear list:**
+Remove all item from a list
+
+**Remove item from list:**
+Remove one or multiple items from a list
+
+**Sort list:**
+Sort the items of a list. Use items of the same type
+
+
+
+
+
 
 
 
