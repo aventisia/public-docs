@@ -76,7 +76,48 @@ Set the value of a new or existing variable, create a new variable or overwrite 
 
 ## DataTable
 
+- **Create new data table:**
+Creates a new data table variable
 
+- **Insert row into data table:**
+Inserts a row at the end or before a specific
+index value
+
+- **Delete row from data table:**
+Delete a data table row at the corresponding row
+index
+
+- **Update data table item:**
+Update a data table row item on a defined
+column
+
+- **Find or replace in data table:**
+Finds and/or replaces data table values
+
+- **Insert column into data table:**
+Inserts a column at the end or before a specific index value
+
+- **Delete column from data table:**
+Delete a data table column at the specified
+column index or column name
+
+- **Delete empty rows from data table:**
+Deletes the rows of the data table that have all of
+their cells empty
+
+- **Delete duplicate rows from data table:**
+Deletes all the rows that are duplicate from the
+data table, if the values have the same data type in
+each column
+
+- **Clear data table:**
+Deletes all the rows of the data table, keeping
+table headers unaffected
+
+- **Sort data table:**
+Sorts the data table rows in ascending or
+descending order by the specified column, if all its
+values have the same data type
 
 
 
