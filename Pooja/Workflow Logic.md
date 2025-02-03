@@ -158,6 +158,16 @@ parent flow run will be paused until the called
 desktop flow completes
 
 ## HTTP
+- **Download from web:**
+Downloads text or a file from the web and stores
+it
+
+- **Invoke SOAP web service:**
+Invokes a method from a SOAP web service
+
+- **Invoke web service:**
+Invokes a web service and stores the response
+text
 
 
 
