@@ -119,6 +119,25 @@ Sorts the data table rows in ascending or
 descending order by the specified column, if all its
 values have the same data type
 
+- **Filter data table:**
+Filters the data table rows based on the applied
+rules
+
+- **Merge data tables:**
+Merges two data tables together, specifying the
+merging behavior in case their number of columns
+is different
+
+- **Join data tables:**
+Joins two data tables based on the specified join
+rule
+
+- **Read from CSV text variable:**
+Generates a data table from a CSV text
+
+- **Convert data table to text:**
+Converts a data table to a CSV text
+
 
 
 
