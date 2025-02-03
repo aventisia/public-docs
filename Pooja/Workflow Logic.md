@@ -1,4 +1,4 @@
-# Workflow Logic
+# Flowbuilder Actions- Workflow Logic
  ![image](https://github.com/user-attachments/assets/f9b58447-4863-4ebc-b10f-eb4b71fd7fa4)
 
 
@@ -7,7 +7,7 @@ Here is an overview of the workflow logic, with a focus on the available buildin
   ![image](https://github.com/user-attachments/assets/8706c36e-f822-48be-9ae5-71a50cb4f536)
 
 
-## Variables
+## Variables Actions
 
 These building blocks manipulate and manage data within the workflow.
 
@@ -121,17 +121,17 @@ These building blocks manipulate and manage data within the workflow.
 - **Convert data table to text**:  
   Converts a data table into CSV text format.
 
-## Conditionals
+## Conditionals Actions
 
 - **Conditional**:  
   Dispatches execution to different parts of the flow based on the value of the expression.
 
-## Loops
+## Loops Actions
 
 - **Loop**:  
   Iterates a block of actions for a specified number of times.
 
-## Flow Control
+## Flow Control Actions
 
 - **Comment**:  
   User comment.
@@ -169,12 +169,12 @@ These building blocks manipulate and manage data within the workflow.
 - **Wait**:  
   Pauses the execution of the flow for a specified number of seconds.
 
-## Run Flow
+## Run Flow Actions
 
 - **Run desktop flow**:  
   Runs a desktop flow that can receive input variables and might produce output variables. The parent flow will be paused until the desktop flow completes.
 
-## HTTP Actions
+## HTTP Actions 
 
 - **Download from web**:  
   Downloads text or a file from the web and stores it.
