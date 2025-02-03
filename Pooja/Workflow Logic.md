@@ -138,6 +138,27 @@ Generates a data table from a CSV text
 - **Convert data table to text:**
 Converts a data table to a CSV text
 
+## Conditionals
+- **Conditional:**
+Dispatches execution to different parts of the
+switch body based on the value of the expression.
+
+## Loops
+- **Loop:**
+Iterates a block of actions for a specified number
+of times
+
+## Flow Control
+
+## Run Flow
+- **Run desktop flow:**
+Runs a desktop flow that can receive input
+variables and might produce output variables. The
+parent flow run will be paused until the called
+desktop flow completes
+
+## HTTP
+
 
 
 
