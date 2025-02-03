@@ -1,4 +1,6 @@
-# Flowbuilder Actions- Workflow Logic
+# Flowbuilder Actions- Workflow Logics
+Core actions to build the foundation of any automation flow
+
  ![image](https://github.com/user-attachments/assets/f9b58447-4863-4ebc-b10f-eb4b71fd7fa4)
 
 
