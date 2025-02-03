@@ -15,37 +15,37 @@ Here in you will find
 
 ## Variable
 
-**Truncate number:**
+- **Truncate number:**
 Get the integral or fractional digits of a numeric value, or round up the value to a specified number of decimal places
 
-**Generate random number:**
+- **Generate random number:**
 Generate a random number or a list of random numbers that fall between a minimum and maximum value
 
-**Clear list:**
+- **Clear list:**
 Remove all item from a list
 
-**Remove item from list:**
+- **Remove item from list:**
 Remove one or multiple items from a list
 
-**Sort list:**
+- **Sort list:**
 Sort the items of a list. Use items of the same type
 
-**Shuffle list:**
+- **Shuffle list:**
 Create a random permutation of a list
 
-**Merge lists:**
+- **Merge lists:**
 Merge two lists into one
 
-**Reverse list:**
+- **Reverse list:**
 Reverse the order of the items of a list
 
-**Remove duplicate items from list list:**
+- **Remove duplicate items from list list:**
 Remove the multiple occurrences of items in a list, so that in the resulting list each item is unique
 
-**Find common list items:**
+- **Find common list items:**
 Compare two lists and create a new list with the items that are common to both
 
-**Subtract lists:**
+- **Subtract lists:**
 Compare two lists and create a new list with the items that are in the first list but not in the second
 
 
