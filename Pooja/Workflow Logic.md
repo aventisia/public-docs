@@ -149,7 +149,46 @@ Iterates a block of actions for a specified number
 of times
 
 ## Flow Control
+- **Comment:**
+User comment
 
+- **End:**
+Signifies the end of a block
+
+- **End region:**
+Marks the end of a group of actions
+
+- **Exit subflow:**
+Exits current subflow and returns to the point it
+was called from
+
+- **Get last error:**
+Retrieves the last error that occurred in the flow
+
+- **Go to:**
+Transfers the flow of execution to another point,
+indicated by a label
+
+- **Label:**
+Acts as the destination of a 'go to' statement
+
+- **On block error:**
+Marks the beginning of a block to handle actions
+errors
+
+- **Region:**
+Marks the beginning of a group of actions
+
+- **Run subflow:**
+Run a subflow specifying any required
+arguments
+
+- **Stop flow:**
+Terminates the flow
+
+- **Wait:**
+Suspends the execution of the flow for a
+specified number of seconds
 ## Run Flow
 - **Run desktop flow:**
 Runs a desktop flow that can receive input
