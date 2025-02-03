@@ -65,6 +65,16 @@ Create a new empty list
 - **Increase variable:**
 Increase the value of a variable by a specific amount
 
+- **Decrease variable:**
+Decrease the value of a variable by a specific amount
+
+- **Run Power Fx expression:**
+Runs the provided Power Fx expression
+
+- **Set variable:**
+Set the value of a new or existing variable, create a new variable or overwrite a previously created variable
+
+## DataTable
 
 
 
