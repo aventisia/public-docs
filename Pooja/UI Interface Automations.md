@@ -95,7 +95,6 @@ Retrieve the list of files in the folder
 
 Retrieve the list of subfolders in the folder
 
-f(x)
 - **Create folder**
 
 Create a new folder
@@ -149,16 +148,16 @@ computer is accessible over the network
 
 - **Set windows environment variable**
 
-{x} Sets an environment variable to a given
+Sets an environment variable to a given
 value
 
 - **Get windows environment variable**
 
-{x} Retrieve the value of an environment variable
+Retrieve the value of an environment variable
 
 - **Delete windows environment variable**
 
-{x} Deletes an environment variable from a given
+ Deletes an environment variable from a given
 scope
 
 
@@ -260,9 +259,8 @@ Saves a previously launched Word instance
 
 Close Word instance
 
-- **Close Word**
+- **Read from Word document**
   
-Read from Word document
 Reads the text content from a document of a
 Word instance
 
@@ -440,7 +438,6 @@ Excel instance.
 
 Closes an Excel instance.
 
-
 - **Set active Excel worksheet**
 
 Activates a specific worksheet of an Excel
@@ -488,11 +485,8 @@ archive
 Uncompress one or more files or folders
 contained in a zip archive
 
-## **compression Actions**
-
-- **Zip files**
-
 ## **Ul automation Actions**
+
 - **Get details of window**
 
 Gets a property of a window such as its title or its
@@ -520,17 +514,14 @@ button
 Extracts data from specific parts of a window in
 the form of single values, lists, or tables
 
-
 - **Extract data from table**
 
 Extracts data from a table in the form of a
 datatable
 
-
 - **Take screenshot of Ul element**
 
 Takes a screenshot of a UI element in window
-
 
 - **Focus text field in window**
 
@@ -550,7 +541,6 @@ Presses a window button
 
 Selects a radio button on a window
 
-
 - **Set checkbox state in window**
 
 Checks or unchecks a checkbox in a window
@@ -561,18 +551,15 @@ form
 Sets or clears the selected options for a drop-
 down list in a window form
 
-
 - **Get window**
 
 Gets a running window, for automating desktop
 applications
 
-
 - **Focus window**
 
 Activates and brings to the foreground a specific
 window
-
 
 - **Set window state**
 
@@ -613,12 +600,10 @@ This action marks the beginning of a conditional
 block of actions depending on whether a selected
 image is found on the screen or not
 
-
 - **Use desktop**
 
 Performs desktop and taskbar related
 operations
-
 
 - **Select tab in window**
 
