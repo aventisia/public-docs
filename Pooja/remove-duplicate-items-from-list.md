@@ -2,7 +2,8 @@
 
 The **Remove Duplicate Items from List** feature allows users to remove duplicate elements from a specified list.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/b4f4f089-e6e9-4e7c-acbd-9ae0bae5eade)
+
 
 ## Configuration Options
 
