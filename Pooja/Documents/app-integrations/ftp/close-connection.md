@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for closing an active connection, such as an FTP, SFTP, or terminal session. Users can select the connection to close and confirm the action.
 
-![alt text](close-connection-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/close-connection.png)
 
 ---
 

@@ -1,9 +1,11 @@
 # Generate Random Number  
 
+## Description
+
 The **Generate Random Number** feature allows users to generate a random numerical value within a specified range.  
 
 ---  
-![alt text](generate-random-number.png)
+![alt text](../../assests/workflow-logics/assests%20variable/generate-random-number.png)
 
 ## Configuration Options  
 
@@ -29,5 +31,7 @@ The **Generate Random Number** feature allows users to generate a random numeric
 | `5`             | `10`             | Yes                          | `[6, 9, 8]`                      |
 
 ---  
+
+## Summary
 
 This feature is useful for **random sampling**, **simulations**, **testing scenarios**, and **statistical analysis** where randomly generated values are required.  

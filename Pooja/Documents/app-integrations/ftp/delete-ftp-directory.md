@@ -4,7 +4,7 @@
 
 The **Delete FTP Directory** operation allows users to remove a specified directory from an FTP server.
 
-![alt text](delete-ftp-directory-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/delete-ftp-directory.png)
 
 ---
 
@@ -38,7 +38,7 @@ The **Delete FTP Directory** operation allows users to remove a specified direct
 
 ## **Example Use Cases**
 
-### ✅ **1. Successfully Deleting a Directory**
+### **1. Successfully Deleting a Directory**
 
 #### **Input:**
 
@@ -58,4 +58,4 @@ Success: Directory '/public/uploads/temp/' has been deleted.
 
 ---
 
-✅ **Use this operation to efficiently manage and delete directories on your FTP server!** 🚀
+**Use this operation to efficiently manage and delete directories on your FTP server!**

@@ -1,12 +1,14 @@
 # **Find or Replace in Data Table**
 
+## **Description**
+
 This configuration allows searching for specific text within a data table and replacing it if needed.
 
 ---
 
-![alt text](find-or-replace-in-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/find-or-replace-in-data-table.png)
 
-![alt text](find-or-replace-in-data-table1-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/find-or-replace-in-data-table1.png)
 
 ## **Configuration Details**
 
@@ -18,7 +20,7 @@ This configuration allows searching for specific text within a data table and re
 
 - The mode is set to locate and substitute occurrences of a specific text.
 
-### **All Matches:** Enabled ✅
+### **All Matches:** Enabled
 
 - All instances of the text found in the table will be replaced, not just the first occurrence.
 
@@ -26,7 +28,7 @@ This configuration allows searching for specific text within a data table and re
 
 - The exact text that will be searched for in the data table.
 
-### **Find Using a Regular Expression:** Enabled ✅
+### **Find Using a Regular Expression:** Enabled
 
 - The text search supports regular expressions, allowing for pattern-based matching.
 
@@ -40,7 +42,7 @@ This configuration allows searching for specific text within a data table and re
 
 ### **Output:**
 
-- **DataTableMatches** (Enabled ✅)
+- **DataTableMatches** (Enabled)
 - Stores the row and column indexes where matches are found.
 
 ---

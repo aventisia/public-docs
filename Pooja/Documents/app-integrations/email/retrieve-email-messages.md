@@ -4,11 +4,11 @@
 
 This screenshot displays an interface for retrieving email messages using an IMAP server. Users can configure the email server settings, authentication credentials, and security options.
 
-![alt text](retrieve-email-messages.png)
+![alt text](../../assests/app-integrations/assests%20email/retrieve-email-messages.png)
 
-![alt text](retrieve-email-messages2-1.png)
+![alt text](../../assests/app-integrations/assests%20email/retrieve-email-messages2.png)
 
-![alt text](retrieve-email-messages3-1.png)
+![alt text](../../assests/app-integrations/assests%20email/retrieve-email-messages3.png)
 
 ---
 

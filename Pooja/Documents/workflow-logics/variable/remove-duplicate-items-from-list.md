@@ -1,11 +1,13 @@
 # Remove Duplicate Items from List  
 
+## Description
+
 The **Remove Duplicate Items from List** feature allows users to streamline a list by eliminating duplicate entries, ensuring that only unique values remain.  
 
 ---  
-![alt text](remove-duplicate-items-from-list.png)
+![alt text](../../assests/workflow-logics/assests%20variable/remove-duplicate-items-from-list.png)
 
-##  Configuration Options  
+## Configuration Options
 
 - **List to Remove Duplicate Items From** (Required)  
   - Specifies the list from which duplicate values will be removed.  
@@ -25,5 +27,7 @@ The **Remove Duplicate Items from List** feature allows users to streamline a li
 | `[True, False, True]`       | No                   | `[True, False]`                |
 
 ---  
+
+## Summary
 
 This functionality is especially beneficial for **data cleaning**, **removing duplicate values**, and **maintaining data integrity** in various use cases.  

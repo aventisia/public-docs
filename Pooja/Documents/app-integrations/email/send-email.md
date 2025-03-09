@@ -4,9 +4,9 @@
 
 This interface allows users to **send an email** by specifying the sender, recipient(s), subject, and body content. This interface allows users to configure **SMTP settings** for sending emails, including defining the SMTP server, port, authentication, and SSL settings.
 
-![alt text](send-email.png)
+![alt text](../../assests/app-integrations/assests%20email/send-email.png)
 
-![alt text](send-email2-1.png)
+![alt text](../../assests/app-integrations/assests%20email/send-email2.png)
 
 ---
 

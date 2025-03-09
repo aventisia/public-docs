@@ -1,9 +1,10 @@
 # Subtract Lists  
 
+## Description
+
 The **Subtract Lists** feature removes elements in the second list from the first list and returns the difference.  
 
----  
-![alt text](subtract-lists.png)
+![alt text](../../assests/workflow-logics/assests%20variable/subtract-lists.png)
 
 ## Configuration Options  
 
@@ -28,4 +29,6 @@ The **Subtract Lists** feature removes elements in the second list from the firs
 
 ---  
 
-This feature is useful for **removing unwanted elements** from a dataset, filtering unique values, or performing set operations. ✨  
+## Summary
+
+This feature is useful for **removing unwanted elements** from a dataset, filtering unique values, or performing set operations.

@@ -4,9 +4,9 @@
 
 This screenshot demonstrates an interface for synchronizing directories between a local system and a remote FTP server. Users can specify the synchronization direction, local folder, FTP directory, and additional options like deleting absent files or including subdirectories.
 
-![alt text](synchronize-directories-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/synchronize-directories.png)
 
-![alt text](synchronize-directories2-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/synchronize-directories2.png)
 
 ---
 

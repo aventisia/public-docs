@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for invoking a custom FTP command on a remote server. Users can specify the FTP connection and the expected valid reply codes. The output includes the actual reply code and text returned by the FTP server.
 
-![alt text](invoke-ftp-command-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/invoke-ftp-command.png)
 
 ---
 

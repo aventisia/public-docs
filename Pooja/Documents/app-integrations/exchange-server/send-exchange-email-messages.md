@@ -4,7 +4,7 @@
 
 This interface enables users to **send emails via an Exchange server** by providing necessary details such as sender, recipient(s), subject, and body content.
 
-![Send Exchange Email Message](send-exchange-email-messages.png)
+![Send Exchange Email Message](../../assests/app-integrations/assests%20exchange-server/send-exchange-email-messages.png)
 
 ---
 

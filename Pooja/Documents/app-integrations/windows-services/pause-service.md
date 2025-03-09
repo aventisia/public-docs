@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface where users can pause a specific service. The interface provides options to specify the service and confirm the action.
 
-![alt text](pause-service-1.png)
+![alt text](../../assests/app-integrations/assests%20windows-services/pause-service.png)
 
 ---
 

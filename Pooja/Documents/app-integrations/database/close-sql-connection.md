@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for closing an SQL connection. Users can select a connection string to terminate an existing database connection.
 
-![alt text](close-sql-connection.png)
+![alt text](../../assests/app-integrations/assests%20database/close-sql-connection.png)
 
 ---
 

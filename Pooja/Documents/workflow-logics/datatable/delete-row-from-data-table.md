@@ -1,9 +1,11 @@
 # **Delete Row from Data Table**
 
+## **Description**
+
 This configuration allows users to delete a specific row from a given data table.
 
 ---
-![alt text](delete-row-from-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/delete-row-from-data-table.png)
 
 ## **Configuration Details**
 

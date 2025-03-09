@@ -1,19 +1,20 @@
 # Increase Variable
 
-## Description
+## **Description**
 
-This operation is used to increment the value of a specified variable by a given amount. It is useful in scenarios where counters or iterative operations are required.
+This operation increments the value of a specified variable by a given amount. It is useful for counting, tracking progress, or managing numerical values dynamically.  
 
-![alt text](increase-variable.png)
+![alt text](../../assests/workflow-logics/assests%20variable/increase-variable.png)
 
-## Input
+## **Input**
 
-- **Variable Name**: The name of the variable to be increased.  
-  - Example: `counter`
-  
-- **Increase By**: The numeric value by which the variable should be incremented.  
-  - Example: `1`
+- **Variable name**: The name of the variable whose value will be increased.  
+  - Example: `counter`  
 
-## Output
+- **Increase by**: The amount by which the variable's value should be increased.  
+  - Example: `1`  
 
-- The specified variable (`counter`) will be updated with its new value after being increased by the given amount.
+### **Output**
+
+- The value of the variable (`counter`) will be increased by the specified amount (`1`).  
+- If `counter` was `5`, it will now be `6`.  

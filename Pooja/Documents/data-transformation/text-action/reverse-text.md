@@ -6,7 +6,7 @@ The **Reverse Text** operation flips the given text **backward**, meaning the la
 
 ---
 
-![alt text](reverse-text-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/reverse-text.png)
 
 ## **Input Parameters**
 
@@ -22,15 +22,6 @@ The **Reverse Text** operation flips the given text **backward**, meaning the la
 |---------------|-------------|
 | **ReversedText** | The text after being reversed. |
 
----
-
-## **Effect**
-
-- **Reverses words and characters** in a given string.
-- **Useful for encoding, pattern detection, and debugging**.
-- Helps in **palindrome detection and text transformation**.
-
----
 
 ## **Example Use Cases**
 
@@ -45,3 +36,11 @@ You have a sentence: `"This is RPA Platform"`, and you need to reverse it comple
 - **Text to Reverse:** `"This is RPA Platform"`
 
 #### **Result :** `mroftalP APR si sihT`
+
+---
+
+## **Summary**
+
+- **Reverses words and characters** in a given string.
+- **Useful for encoding, pattern detection, and debugging**.
+- Helps in **palindrome detection and text transformation**.

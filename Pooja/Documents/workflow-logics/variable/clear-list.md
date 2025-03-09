@@ -1,9 +1,11 @@
 # Clear List  
 
+## Description
+
 The **Clear List** feature allows users to remove all elements from a specified list, leaving it empty.  
 
 ---  
-![alt text](clear-list-1.png)
+![alt text](../../assests/workflow-logics/assests%20variable/clear-list.png)
 
 ## Configuration Options  
 
@@ -22,5 +24,7 @@ The **Clear List** feature allows users to remove all elements from a specified 
 | `[10, 20, 30, 40]`              | `[]`                            |
 
 ---  
+
+## **Summary**
 
 This feature is particularly useful for **resetting lists**, **removing temporary data**, and **preparing lists for new data entries**.  

@@ -5,7 +5,7 @@
 The **Parse Text** operation searches for a specified substring within a given text and extracts its occurrence(s).
 
 ---
-![alt text](parse-text-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/parse-text.png)
 
 ## **Configuration Options**
 
@@ -17,15 +17,6 @@ The **Parse Text** operation searches for a specified substring within a given t
 | **Start parsing at position** | `0`               | The position in the text where the search should begin. |
 | **First occurrence only**  | `Enabled`           | If enabled, it extracts only the first occurrence of the searched text. |
 | **Ignore case**            | `Enabled`           | If enabled, the search is **case-insensitive** (e.g., "Payment" would match "payment" or "PAYMENT"). |
-
----
-
-## **Effect**
-
-- **Finds the word** `"Payment"` in `"This is my first payment"`.
-- **Case-insensitive search** ensures `"payment"` is matched.
-- **Extracts only the first occurrence** (even if multiple exist).
-- **Does not use regex**, so it looks for an exact match.
 
 ---
 
@@ -45,3 +36,12 @@ This is my first payment
 "Payment"
 Use Case: Extracting specific words from text.
 ```
+
+---
+
+## **Summary**
+
+- **Finds the word** `"Payment"` in `"This is my first payment"`.
+- **Case-insensitive search** ensures `"payment"` is matched.
+- **Extracts only the first occurrence** (even if multiple exist).
+- **Does not use regex**, so it looks for an exact match.

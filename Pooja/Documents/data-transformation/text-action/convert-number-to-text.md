@@ -5,7 +5,7 @@
 The **Convert Number to Text** operation formats numerical values into a **text string** while allowing custom decimal precision and thousands separators.
 
 ---
-![alt text](convert-number-to-text-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/convert-number-to-text.png)
 
 ## **Input Parameters**
 

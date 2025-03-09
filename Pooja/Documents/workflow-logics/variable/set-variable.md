@@ -4,7 +4,7 @@
 
 This operation assigns a specific value to a variable. It is commonly used to store data dynamically within workflows or automation processes.
 
-![alt text](set-variable.png)
+![alt text](../../assests/workflow-logics/assests%20variable/set-variable.png)
 
 ## Input
 

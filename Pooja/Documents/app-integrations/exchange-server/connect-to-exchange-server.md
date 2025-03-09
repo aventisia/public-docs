@@ -4,7 +4,7 @@
 
 This interface allows users to **connect to an Exchange server** using specified settings, including Exchange server version, connection type, credentials, and timeout configuration.
 
-![alt text](connect-to-exchange-server.png)
+![alt text](../../assests/app-integrations/assests%20exchange-server/connect-to-exchange-server.png)
 
 ---
 
@@ -39,7 +39,7 @@ This interface allows users to **connect to an Exchange server** using specified
 
 ## **Output**
 
-- **ExchangeConnection** (Enabled ✅)
+- **ExchangeConnection** (Enabled)
   - Generates an **Exchange connection object** for later use in Exchange-related actions.
 
 ---

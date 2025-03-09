@@ -12,7 +12,7 @@ This operation supports **multiple trimming options**:
 
 ---
 
- ![alt text](trim-text-1.png)
+ ![alt text](../../assests/data-transformation/assests%20text-action/trim-text.png)
 
 ## **Input Parameters**
 
@@ -29,17 +29,6 @@ This operation supports **multiple trimming options**:
 |---------------|-------------|
 | **TrimmedText** | The new text with the unwanted characters removed. |
 
----
-
-## **Effect**
-
-- **Removes extra spaces** from user input fields.
-- **Cleans up text** for better **data processing and consistency**.
-- Helps **avoid errors in comparisons** when checking for text equality.
-- Ensures **uniform formatting** in structured data, logs, or reports.
-
----
-
 ## **Example Use Cases**
 
 ### **Example 1: Trimming Whitespace**
@@ -54,3 +43,12 @@ A user submits a form with the input `"  Robotics Process Automation  "` (includ
 - **What to Trim:**`Whitespace characters from the beginning and end`
 
 #### **Result :** Robotics Process Automation
+
+---
+
+## **Summary**
+
+- **Removes extra spaces** from user input fields.
+- **Cleans up text** for better **data processing and consistency**.
+- Helps **avoid errors in comparisons** when checking for text equality.
+- Ensures **uniform formatting** in structured data, logs, or reports.

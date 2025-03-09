@@ -1,10 +1,11 @@
 # **Convert Text to Datetime**
 
 ## **Description**
+
 The **Convert Text to Datetime** operation takes a text-based date representation and transforms it into a **valid datetime format**. This is useful when working with **non-standard date formats**.
 
 ---
-![alt text](convert-text-to-datetime-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/convert-text-to-datetime.png)
 
 ## **Input Parameters**
 
@@ -25,6 +26,7 @@ The **Convert Text to Datetime** operation takes a text-based date representatio
 ---
 
 ## **Effect**
+
 - **Converts text-based dates** into **structured** datetime objects.
 - **Ensures compatibility** with date-based operations.
 - **Handles custom date formats**, which are not automatically recognized.

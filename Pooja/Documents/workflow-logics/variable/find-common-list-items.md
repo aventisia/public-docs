@@ -1,9 +1,11 @@
 # Find Common List Items  
 
+## Description
+
 The **Find Common List Items** feature identifies and extracts the elements that are present in both lists.  
 
 ---  
-![alt text](find-common-list-items.png)
+![alt text](../../assests/workflow-logics/assests%20variable/find-common-list-items.png)
 
 ## Configuration Options  
 
@@ -28,4 +30,6 @@ The **Find Common List Items** feature identifies and extracts the elements that
 
 ---  
 
-This feature is useful for **finding shared elements** between two lists, such as common users, overlapping datasets, or matching entries. 🔍  
+## Summary
+
+This feature is useful for **finding shared elements** between two lists, such as common users, overlapping datasets, or matching entries.

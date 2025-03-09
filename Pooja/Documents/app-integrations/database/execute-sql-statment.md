@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for executing an SQL statement. Users can establish a database connection using a connection string and execute SQL queries.
 
-![alt text](execute-sql-statment-1.png)
+![alt text](../../assests/app-integrations/assests%20database/execute-sql-statment.png)
 
 ---
 

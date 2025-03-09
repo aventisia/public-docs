@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for changing the working directory on a remote server (e.g., FTP or SFTP). Users can specify the connection and the new directory path to set as the working directory.
 
-![alt text](change-working-directory-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/change-working-directory.png)
 
 ---
 

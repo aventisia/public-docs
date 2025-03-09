@@ -5,7 +5,7 @@
 This interface allows users to check the status of a service before performing an action.
 
 ---
-![alt text](if-service-1.png)
+![alt text](../../assests/app-integrations/assests%20windows-services/if-service.png)
 
 Select the condition to check for the service.
 
@@ -24,4 +24,4 @@ Select the condition to check for the service.
 
 Specify the name of the service to check.
 
-**🔔 Note:** Ensure the service name is correctly entered to avoid errors.
+**Note:** Ensure the service name is correctly entered to avoid errors.

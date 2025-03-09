@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for generating a hash value from a given text using a specified hashing algorithm.
 
-![alt text](hash-text-1.png)
+![alt text](../../assests/app-integrations/assests%20cryptography/hash-text.png)
 
 ---
 

@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for encrypting the contents of a file using the **AES (Advanced Encryption Standard)** algorithm. Users can select a file, specify an encryption key, and configure advanced settings such as encoding, salt, and initialization vector (IV).
 
-![alt text](encrypt-from-file-with-aes-1.png)
+![alt text](../../assests/app-integrations/assests%20cryptography/encrypt-from-file-with-aes.png)
 
 ## Configuration
 

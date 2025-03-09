@@ -12,7 +12,7 @@ This operation supports **three types of padding**:
 
 Padding is particularly useful in **text-based interfaces, report generation, structured logs, and UI elements** where maintaining a uniform appearance is necessary.
 
-![alt text](pad-text.png)
+![alt text](../../assests/data-transformation/assests%20text-action/pad-text.png)
 
 ---
 
@@ -35,15 +35,6 @@ Padding is particularly useful in **text-based interfaces, report generation, st
 
 ---
 
-## **Effect**
-
-- Adds **padding** to the specified text as per the configuration.
-- Helps in **text formatting, alignment, and standardization**.
-- Ensures consistency in **data fields**, especially in **structured logs, reports, and UI elements**.
-- Useful when preparing text for **fixed-width display environments**, such as command-line interfaces or legacy systems.
-
----
-
 ## **Example Use Cases**
 
 ### **Example 1: Padding to the Right**
@@ -60,3 +51,12 @@ A user wants to **pad** `"Hello World"` on the **right** with `"of RPA"`, up to 
 - **Total Length:** `10`
 
 #### **Result** Hello World of RPA
+
+---
+
+## **Summary**
+
+- Adds **padding** to the specified text as per the configuration.
+- Helps in **text formatting, alignment, and standardization**.
+- Ensures consistency in **data fields**, especially in **structured logs, reports, and UI elements**.
+- Useful when preparing text for **fixed-width display environments**, such as command-line interfaces or legacy systems.

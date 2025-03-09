@@ -1,12 +1,12 @@
 # **Read from CSV Text Variable**  
 
-## **Overview**  
+## **Description**  
 
 This operation reads data from a CSV file (`Input_Invoice.csv`) and converts it into a structured data table.  
 
-![alt text](read-from-csv-text-variable1-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/read-from-csv-text-variable1.png)
 
-![alt text](read-from-csv-text-variable2-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/read-from-csv-text-variable2.png)
 
 ## **Input Parameters**  
 
@@ -32,11 +32,11 @@ This operation reads data from a CSV file (`Input_Invoice.csv`) and converts it 
 | Option                          | Status | Description |
 |---------------------------------|--------|-------------|
 
-| **Trim Fields**                 | ✅ Enabled | Automatically removes leading and trailing whitespaces from extracted cells. |
+| **Trim Fields**                 | Enabled | Automatically removes leading and trailing whitespaces from extracted cells. |
 
-| **First Line Contains Column Names** | ✅ Enabled | Uses the first row as column headers instead of treating it as data. |
+| **First Line Contains Column Names** | Enabled | Uses the first row as column headers instead of treating it as data. |
 
-## **Effect**  
+## **Summary**  
 
 - Reads CSV content and structures it into a **data table**.  
 - Uses **semicolon (`;`)** as the column separator.  

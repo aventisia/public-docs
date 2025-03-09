@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for decrypting text that has been encrypted using the **AES (Advanced Encryption Standard)** algorithm. Users can input the encrypted text, specify a decryption key, and configure advanced settings such as encoding, initialization vector (IV), and salt.
 
-![alt text](decrypt-text-with-aes-1.png)
+![alt text](../../assests/app-integrations/assests%20cryptography/decrypt-text-with-aes.png)
 
 ---
 

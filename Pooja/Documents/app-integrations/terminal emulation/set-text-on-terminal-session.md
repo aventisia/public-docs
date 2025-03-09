@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for setting or updating text in an active terminal session. Users can input text directly, use a variable, or provide an expression to set the text in a specific field.
 
-![alt text](set-text-on-terminal-session1-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/set-text-on-terminal-session1.png)
 
 ---
 

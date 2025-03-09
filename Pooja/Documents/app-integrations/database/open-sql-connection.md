@@ -4,7 +4,7 @@
 
 This screenshot demonstrates a tool or interface designed to establish an SQL connection. The interface allows users to input a connection string to connect to a database.
 
-![alt text](open-sql-connection.png)
+![alt text](../../assests/app-integrations/assests%20database/open-sql-connection.png)
 
 ---
 

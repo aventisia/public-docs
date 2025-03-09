@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for moving the cursor to a specific position within an active terminal session. Users can specify the row and column where the cursor should be moved.
 
-![alt text](move-cursor-on-terminal-session-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/move-cursor-on-terminal-session.png)
 
 ---
 

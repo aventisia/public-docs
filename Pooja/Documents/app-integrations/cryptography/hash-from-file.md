@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for generating a hash value from the contents of a file using a specified hashing algorithm.
 
-![alt text](hash-from-file-1.png)
+![alt text](../../assests/app-integrations/assests%20cryptography/hash-from-file-with-key.png)
 
 ---
 

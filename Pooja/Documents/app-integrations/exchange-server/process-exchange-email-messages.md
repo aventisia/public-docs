@@ -4,7 +4,7 @@
 
 This interface enables users to **process email messages** in an Exchange server by performing actions such as moving emails to folders.
 
-![alt text](process-exchange-email-messages-1.png)
+![alt text](../../assests/app-integrations/assests%20exchange-server/process-exchange-email-messages.png)
 
 ---
 

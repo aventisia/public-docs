@@ -4,7 +4,7 @@
 
 This interface allows users to extract tables from a PDF file while providing options for handling multi-page tables and column names.
 
-![alt text](extract-table-from-pdf-1.png)
+![alt text](../../assests/app-integrations/assests%20pdf/extract-table-from-pdf.png)
 
 ---
 

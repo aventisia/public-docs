@@ -1,10 +1,10 @@
 # Sort Data Table  
 
-## **Overview**
+## **Description**
 
 This operation sorts the data in the **DT_StudentData** table based on the **StudName** column in **ascending/descending order**.  
 
-![alt text](sort-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/sort-data-table.png)
 
 ## **Input**
 
@@ -21,7 +21,9 @@ This operation sorts the data in the **DT_StudentData** table based on the **Stu
 |-----------------|----------------------------------------|
 | **Sorted Table** | The table is now sorted by `StudName`. |
 
-## **Effect**
+---
+
+## **Summmary**
 
 - **Sorts** all rows based on **StudName**.  
 - **Ascending order** (A → Z, 1 → 100).  

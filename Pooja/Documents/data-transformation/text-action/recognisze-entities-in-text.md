@@ -5,13 +5,13 @@
 This screenshot demonstrates a tool or interface designed to recognize specific entities (such as URLs) within a given text. The example provided extracts a URL from a text input.
 
 ---
-![alt text](recognisze-entities-in-text-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/recognisze-entities-in-text.png)
 
 ## Input
 
 - **Text to Recognize**:
 
-```
+```plaintext
 Hey this is my personal website www.dummy.com
 ```
 
@@ -27,15 +27,6 @@ Hey this is my personal website www.dummy.com
 
 - **Recognized Entities**:
 - **URL**: `www.dummy.com`
-
----
-
-## Actions
-
-- **On Error**: Handle errors during the recognition process.
-- **Buttons**:
-- **Cancel**: Abort the operation.
-- **Submit**: Confirm and process the text.
 
 ---
 

@@ -1,10 +1,10 @@
 # Clear Data Table  
 
-## **Overview**
+## **Description**
 
 This operation clears all data from the table **DT_StudentData**, removing all rows while keeping the table structure intact.  
 
-![alt text](clear-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/clear-data-table.png)
 
 ## **Input**  
 
@@ -18,14 +18,14 @@ This operation clears all data from the table **DT_StudentData**, removing all r
 |------------------|--------------------------------------|
 | **Cleared Table** | The table remains but contains no data. |
 
-## **Effect**  
-
-- Deletes **all rows** but retains the **table schema**.  
-- **Does not** delete the table itself.  
-
 ## **Use Cases**
 
 - Useful for **resetting data** without deleting the table.  
 - Prepares the table for fresh data input.  
 
-**🔹 Click "Submit" to proceed.**  
+---
+
+## **Summary**  
+
+- Deletes **all rows** but retains the **table schema**.  
+- **Does not** delete the table itself.

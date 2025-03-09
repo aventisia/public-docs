@@ -4,7 +4,7 @@
 
 The **Open FTP Connection** operation establishes a connection to an FTP server using a set of required credentials and configurations.
 
-![alt text](open-ftp-connection-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/open-ftp-connection.png)
 
 ---
 

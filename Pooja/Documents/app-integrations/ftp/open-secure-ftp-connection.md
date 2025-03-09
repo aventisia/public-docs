@@ -4,10 +4,9 @@
 
 This screenshot demonstrates an interface for opening a secure FTP (SFTP) connection to a remote server. Users can specify the host, port, authentication method, and other connection details.
 
-![alt text](open-secure-ftp-connection-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/open-secure-ftp-connection.png)
 
 ---
-
 
 ## Configuration
 

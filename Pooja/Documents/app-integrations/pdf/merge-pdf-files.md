@@ -4,7 +4,7 @@
 
 This interface allows users to merge multiple PDF files into a single document.
 
-![alt text](merge-pdf-files-1.png)
+![alt text](../../assests/app-integrations/assests%20pdf/merge-pdf-files.png)
 
 ---
 

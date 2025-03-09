@@ -4,7 +4,7 @@
 
 This operation retrieves the current date and time based on the specified time zone settings.
 
-![alt text](get-current-date-and-time-1.png)
+![alt text](../../assests/data-transformation/assests%20date-time/get-current-date-and-time.png)
 
 ## **Input Parameters**
 

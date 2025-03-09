@@ -1,10 +1,12 @@
 # **Delete Column from Data Table**
 
+## **Description**  
+
 This configuration allows deleting a specified column from a given data table.
 
 ---
 
-![alt text](delete-column-from-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/delete-column-from-data-table.png)
 
 ## **Configuration Details**
 

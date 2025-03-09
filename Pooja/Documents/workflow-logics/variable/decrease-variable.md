@@ -4,7 +4,7 @@
 
 This operation is used to decrement the value of a specified variable by a given amount. It is useful in scenarios where counters or iterative operations require reduction.
 
-![alt text](decrease-variable.png)
+![alt text](../../assests/workflow-logics/assests%20variable/decrease-variable.png)
 
 ## Input
 

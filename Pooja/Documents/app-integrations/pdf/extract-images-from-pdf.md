@@ -4,7 +4,7 @@
 
 This interface allows users to extract images from a PDF document and save them to a specified location.
 
-![alt text](extract-images-from-pdf-1.png)
+![alt text](../../assests/app-integrations/assests%20pdf/extract-images-from-pdf.png)
 
 ---
 
@@ -50,4 +50,4 @@ Define the directory or folder where extracted images will be saved.
 
 ---
 
-**🔔 Note:** Ensure the PDF contains images suitable for extraction.
+**Note:** Ensure the PDF contains images suitable for extraction.

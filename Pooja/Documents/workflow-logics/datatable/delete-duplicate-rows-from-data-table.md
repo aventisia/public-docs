@@ -1,10 +1,12 @@
 # **Delete Duplicate Rows from Data Table**
 
+## **Description**
+
 This configuration removes duplicate rows from a specified data table.
 
 ---
 
-![alt text](delete-duplicate-rows-from-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/delete-duplicate-rows-from-data-table.png)
 
 ## **Configuration Details**
 

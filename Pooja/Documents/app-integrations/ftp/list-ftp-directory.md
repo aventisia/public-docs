@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for listing the contents of a directory on an FTP server. Users can specify the FTP connection and the directory path to retrieve a list of directories and files.
 
-![alt text](list-ftp-directory-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/list-ftp-directory.png)
 
 ---
 

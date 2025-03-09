@@ -6,7 +6,7 @@ This interface allows users to extract specific pages from a PDF and save them a
 
 ---
 
-![alt text](extract-pdf-file-pages-to-new-pdf-file-1.png)
+![alt text](../../assests/app-integrations/assests%20pdf/extract-pdf-file-pages-to-new-pdf-file.png)
 
 ## PDF File
 

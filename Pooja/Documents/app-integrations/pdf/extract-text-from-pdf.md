@@ -4,7 +4,7 @@
 
 This interface allows users to extract text from a PDF file with various options for selecting pages and optimizing structured data.
 
-![alt text](extract-text-from-pdf-1.png)
+![alt text](../../assests/app-integrations/assests%20pdf/extract-text-from-pdf.png)
 
 ---
 

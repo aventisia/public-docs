@@ -1,18 +1,29 @@
-# Increase Variable
+# Add Item to List  
 
-This operation increments the value of a specified variable by a given amount. It is useful for counting, tracking progress, or managing numerical values dynamically.  
+## Description
 
-![alt text](add-item-to-list-1.png)
+This feature allows users to add an item to a list. It is useful for dynamically updating lists during automation workflows.  
 
-## **Input**
+![Add Item to List](../../assests/workflow-logics/assests%20variable/add-item-to-list-1.png)  
 
-- **Variable name**: The name of the variable whose value will be increased.  
-  - Example: `counter`  
+## Fields and Options  
 
-- **Increase by**: The amount by which the variable's value should be increased.  
-  - Example: `1`  
+### 1. **Add Item**
 
-### **Output**
+- **Description**: Specify the item to add to the list.  
+- **Purpose**: This ensures the correct item is added.  
 
-- The value of the variable (`counter`) will be increased by the specified amount (`1`).  
-- If `counter` was `5`, it will now be `6`.  
+### 2. **Into List**
+
+- **Description**: Select the list to which the item will be added.  
+- **Purpose**: This ensures the item is added to the correct list.  
+
+## Use Cases
+
+- **List Management**: Dynamically updating lists with new items.  
+- **Workflow Automation**: Integrating list updates into larger automation workflows.  
+- **Data Collection**: Adding items to a list for further processing or analysis.  
+
+## Summary
+
+The **Add Item to List** action provides a way to add an item to a specified list. It ensures efficient list management, making it ideal for automation workflows involving dynamic data updates.

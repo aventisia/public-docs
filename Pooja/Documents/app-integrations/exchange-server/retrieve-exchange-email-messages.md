@@ -4,9 +4,9 @@
 
 This interface enables users to **retrieve email messages** from an Exchange server, allowing configuration of mailbox type, folders, filters, and read status.
 
-![alt text](retrieve-exchange-email-messages1-1.png)
+![alt text](../../assests/app-integrations/assests%20exchange-server/retrieve-exchange-email-messages1.png)
 
-![alt text](retrieve-exchange-email-messages2-1.png)
+![alt text](../../assests/app-integrations/assests%20exchange-server/retrieve-exchange-email-messages2.png)
 
 ---
 
@@ -25,7 +25,7 @@ This interface enables users to **retrieve email messages** from an Exchange ser
 ### **3. Retrieve Email Messages from Custom Folder**
 
 - Enables retrieval of emails from a **custom folder** instead of a predefined Exchange folder.
-- **Status:** ❌ Disabled (Retrieving from a standard Exchange folder)
+- **Status:** Disabled (Retrieving from a standard Exchange folder)
 
 ### **4. Exchange Folder** (Required)
 
@@ -55,7 +55,7 @@ Read email messages only
 ### **6. Mark as Read**
 
 - Defines whether retrieved emails should be **marked as read** after retrieval.
-- **Status:** ✅ Enabled (Emails will be marked as read)
+- **Status:** Enabled (Emails will be marked as read)
 
 ### **7. From Contains**
 
@@ -82,14 +82,14 @@ Read email messages only
 - Defines how attachments should be handled.
 - **Options:**
   - `Ignore attachments`
-  - `Save attachments` ✅ (Selected)
+  - `Save attachments` (Selected)
   - `Process attachments`
 
 ---
 
 ## **Output**
 
-- **RetrievedEmails** (Enabled ✅)
+- **RetrievedEmails** (Enabled)
   - Stores retrieved emails for **further processing** as Exchange mail objects.
 
 ---

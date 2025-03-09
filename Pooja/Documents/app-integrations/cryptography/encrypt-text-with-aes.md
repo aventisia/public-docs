@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for encrypting text using the **AES (Advanced Encryption Standard)** algorithm. Users can input the text, specify an encryption key, and configure advanced settings such as encoding, salt, and initialization vector (IV).
 
-![alt text](encrypt-text-with-aes-1.png)
+![alt text](../../assests/app-integrations/assests%20cryptography/encrypt-text-with-aes.png)
 
 ---
 

@@ -4,7 +4,7 @@
 
 This operation calculates the difference between two dates and returns the result in different time units.
 
-![alt text](substract-dates-1.png)
+![alt text](../../assests/data-transformation/assests%20date-time/substract-dates.png)
 
 ## **Example Scenario**
 
@@ -33,7 +33,7 @@ We will calculate the time difference in **Seconds, Minutes, Hours, and Days**.
 | **TimeDifference (Minutes)** | `53,280 minutes` |
 | **TimeDifference (Seconds)** | `3,196,800 seconds` |
 
-## **Effect**
+## **Summary**
 
 - Computes the **difference** between the two dates in **Seconds, Minutes, Hours, and Days**.
 - Stores the result in the **TimeDifference** variable for further processing.

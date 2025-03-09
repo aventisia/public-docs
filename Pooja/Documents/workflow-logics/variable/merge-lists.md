@@ -1,9 +1,11 @@
 # Merge Lists  
 
+## Description
+
 The **Merge Lists** feature combines two lists into a single list without modifying the original lists.  
 
 ---  
-![alt text](merge-lists.png)
+![alt text](../../assests/workflow-logics/assests%20variable/merge-lists.png)
 
 ## Configuration Options  
 
@@ -28,4 +30,6 @@ The **Merge Lists** feature combines two lists into a single list without modify
 
 ---  
 
-This feature is useful for **combining multiple lists** while keeping the original lists intact. 🚀  
+## Summary
+
+This feature is useful for **combining multiple lists** while keeping the original lists intact.

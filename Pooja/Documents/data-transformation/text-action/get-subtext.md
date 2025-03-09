@@ -4,7 +4,7 @@
 
 This operation extracts a portion of text from a given string based on a specified starting position and length.
 
-![alt text](get-subtext-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/get-subtext.png)
 
 ## **Input Parameters**
 
@@ -21,11 +21,6 @@ This operation extracts a portion of text from a given string based on a specifi
 |------------|-------------|
 | **Subtext** | The retrieved substring based on the provided parameters. |
 
-## **Effect**
-
-- Extracts part of a given text.
-- Can be used for **data parsing, text processing, and string manipulation**.
-
 ## **Example Use Case**
 
 - **Scenario:** A user wants to extract the **first two characters** of a city name.
@@ -34,3 +29,8 @@ This operation extracts a portion of text from a given string based on a specifi
   - Start Index: `Start of text`
   - Number of Characters: `2`
 - **Result:** The output will be:  Pu
+
+## **Summary**
+
+- Extracts part of a given text.
+- Can be used for **data parsing, text processing, and string manipulation**.

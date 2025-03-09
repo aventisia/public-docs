@@ -4,6 +4,8 @@
 
 This screenshot demonstrates an interface for sending control keys or transmit commands to an active terminal session. Users can specify the terminal session and the type of key or command to send.
 
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/send-key-to-terminal-session.png)
+
 ---
 
 ## Configuration

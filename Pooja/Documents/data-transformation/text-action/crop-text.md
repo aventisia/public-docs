@@ -4,9 +4,9 @@
 
 This operation extracts a portion of text from the original string based on a specified flag.
 
-![alt text](crop-text.png)
+![alt text](../../assests/data-transformation/assests%20text-action/crop-text.png)
 
-![alt text](crop-text-output-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/crop-text-output.png)
 
 ## **Input Parameters**
 

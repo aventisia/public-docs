@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface where users can configure an action to wait for a specific service to start. The action can either wait indefinitely or fail after a set time period.
 
-![alt text](wait-for-service-1.png)
+![alt text](../../assests/app-integrations/assests%20windows-services/wait-for-service.png)
 
 ---
 

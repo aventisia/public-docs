@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for opening a terminal session using **Micro Focus Reflection** as the provider. The interface allows users to configure settings such as the HLLAPI DLL path, session name, host type, and host address.
 
-![alt text](open-termianl-session-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/open-termianl-session.png)
 
 ---
 

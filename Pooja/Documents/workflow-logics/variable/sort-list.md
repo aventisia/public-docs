@@ -1,9 +1,11 @@
 # Sort List  
 
+## Description
+
 The **Sort List** feature enables users to arrange the elements of a list in a specified order, either in ascending or descending sequence.  
 
 ---  
-![alt text](sort-list.png)
+![alt text](../../assests/workflow-logics/assests%20variable/sort-list.png)
 
 ## Configuration Options  
 
@@ -32,5 +34,7 @@ The **Sort List** feature enables users to arrange the elements of a list in a s
 | `[{'name': 'FileB'}, {'name': 'FileA'}]` | Ascending | `[{'name': 'FileA'}, {'name': 'FileB'}]` |
 
 ---  
+
+## Summary
 
 This feature is useful for **organizing data**, **sorting numerical values**, and **arranging structured lists** efficiently.  

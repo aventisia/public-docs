@@ -4,7 +4,7 @@
 
 The **Rename FTP File** operation allows users to rename a specified file on an FTP server.
 
-![alt text](rename-ftp-file-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/rename-ftp-file.png)
 
 ---
 

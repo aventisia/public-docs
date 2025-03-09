@@ -1,10 +1,12 @@
 # **Insert Row into Data Table**
 
+## **Descriptoin**
+
 This dialog allows users to insert a new row into an existing data table within an automated workflow.
 
 ---
 
-![alt text](inser-row-into-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/inser-row-into-data-table.png)
 
 ## Configuration Details
 

@@ -1,10 +1,10 @@
 # **Merging Data Tables**  
 
-## **Overview**  
+## **Description**  
 
 This process merges two data tables, **StudData1** and **StudMarks2**, by incorporating additional columns.  
 
-![alt text](merge-data-tables-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/merge-data-tables.png)
 
 ## **Input Parameters**
 
@@ -19,15 +19,6 @@ This process merges two data tables, **StudData1** and **StudMarks2**, by incorp
 | Parameter           | Description                                           |
 |--------------------|-------------------------------------------------------|
 | **Merged Table**  | The resulting table includes all rows from `StudData1` along with newly added columns from `StudMarks2`. |
-
-## **Effects & Handling Options**  
-
-- **Combines both tables** while maintaining all existing data.  
-- **Adds extra columns** from `StudMarks2` into `StudData1` rather than appending rows.  
-- Different handling options for extra columns:  
-  - **Ignore extra columns** → Leaves out any additional columns that don’t match.  
-  - **Error on extra columns** → Triggers an error if new columns exist in `StudMarks2`.  
-- Ensures that **no data loss occurs** during merging.  
 
 ---
 
@@ -59,3 +50,14 @@ This process merges two data tables, **StudData1** and **StudMarks2**, by incorp
 |-----------|--------|-----|-------|-------|
 | 101       | Alice  | 20  | 85    | A     |
 | 102       | Bob    | 21  | 78    | B     |
+
+---
+
+## **Summary**  
+
+- **Combines both tables** while maintaining all existing data.  
+- **Adds extra columns** from `StudMarks2` into `StudData1` rather than appending rows.  
+- Different handling options for extra columns:  
+  - **Ignore extra columns** → Leaves out any additional columns that don’t match.  
+  - **Error on extra columns** → Triggers an error if new columns exist in `StudMarks2`.  
+- Ensures that **no data loss occurs** during merging. 

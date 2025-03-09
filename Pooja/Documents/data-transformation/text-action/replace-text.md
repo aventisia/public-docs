@@ -1,4 +1,4 @@
-# **Replace Text Operation**
+# **Replace Text**
 
 ## **Description**
 
@@ -6,7 +6,7 @@ The **Replace Text** operation allows you to search for a specific substring wit
 
 ---
 
-![alt text](replace-text-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/replace-text.png)
 
 ## **Configuration Options**
 
@@ -18,15 +18,6 @@ The **Replace Text** operation allows you to search for a specific substring wit
 | **Ignore case**                              | `Enabled`          | If enabled, it replaces text in a **case-insensitive** manner. |
 | **Replace with**                             | `Transaction`      | The replacement text. |
 | **Activate escape sequence**                 | `Disabled`         | If enabled, special sequences (e.g., `\t` for tab) would be processed in the replacement text. |
-
----
-
-## **Effect**
-
-- Finds `"Payment"` in `"This is my first payment"`.
-- **Case-insensitive replacement** ensures `"payment"` or `"PAYMENT"` are also matched.
-- Replaces it with `"Transaction"`, modifying the text to `"This is my first transaction"`.
-- **No regex used**, so only exact word matches apply.
 
 ---
 
@@ -47,3 +38,12 @@ This is my first transaction
 
 Use Case: Renaming words in text dynamically.
 ```
+
+---
+
+## **Summary**
+
+- Finds `"Payment"` in `"This is my first payment"`.
+- **Case-insensitive replacement** ensures `"payment"` or `"PAYMENT"` are also matched.
+- Replaces it with `"Transaction"`, modifying the text to `"This is my first transaction"`.
+- **No regex used**, so only exact word matches apply.

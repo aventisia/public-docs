@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface where users can stop a specific service. The interface provides options to specify the service and confirm the action.
 
-![alt text](stop-service-1.png)
+![alt text](../../assests/app-integrations/assests%20windows-services/stop-service.png)
 
 ---
 

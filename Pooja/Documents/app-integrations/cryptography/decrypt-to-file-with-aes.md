@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for decrypting text and saving the decrypted content to a file using the **AES (Advanced Encryption Standard)** algorithm. Users can input the encrypted text, specify a decryption key, and configure advanced settings such as encoding, initialization vector (IV), and handling of existing files.
 
-![alt text](decrypt-to-file-with-aes-1.png)
+![alt text](../../assests/app-integrations/assests%20cryptography/decrypt-to-file-with-aes.png)
 
 ---
 

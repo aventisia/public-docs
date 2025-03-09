@@ -4,7 +4,7 @@
 
 This interface allows users to **process email messages** by performing operations such as deleting emails from the server. The user specifies the email account, operation type, and IMAP server details.
 
-![alt text](process-email-messages.png)
+![alt text](../../assests/app-integrations/assests%20email/process-email-messages.png)
 
 ---
 

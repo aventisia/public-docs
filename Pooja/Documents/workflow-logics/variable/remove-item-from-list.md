@@ -1,9 +1,11 @@
 # Remove Item from List  
 
+## Description
+
 The **Remove Item from List** feature enables users to remove a specific element from a list based on the selected criteria.  
 
 ---  
-![alt text](remove-item-from-list.png)
+![alt text](../../assests/workflow-logics/assests%20variable/remove-item-from-list.png)
 
 ## Configuration Options  
 
@@ -29,5 +31,7 @@ The **Remove Item from List** feature enables users to remove a specific element
 | `[True, False, True]` | Index            | `0`            | `[False, True]`    |
 
 ---  
+
+## Summary
 
 This feature is particularly useful for **list modifications**, **removing unwanted elements**, and **dynamic list management**.  

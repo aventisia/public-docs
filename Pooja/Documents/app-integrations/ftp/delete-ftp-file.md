@@ -4,7 +4,7 @@
 
 The **Delete FTP File** operation allows users to remove a specified file from an FTP server.
 
-![alt text](delete-ftp-file-1.png)
+![alt text](../../assests/app-integrations/assests%20ftp/delete-ftp-file.png)
 
 ---
 

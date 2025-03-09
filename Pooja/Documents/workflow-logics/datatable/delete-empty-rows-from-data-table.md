@@ -1,10 +1,12 @@
 # **Delete Empty Rows from Data Table**
 
+## **Description**
+
 This configuration removes any empty rows from a specified data table.
 
 ---
 
-![alt text](delete-empty-rows-from-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/delete-empty-rows-from-data-table.png)
 
 ## **Configuration Details**
 

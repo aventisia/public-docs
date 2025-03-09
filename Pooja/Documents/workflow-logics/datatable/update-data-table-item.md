@@ -1,9 +1,11 @@
 # **Update Data Table Item**
 
+## **Description**
+
 This configuration enables updating a specific item in a data table by modifying a column value for a selected row.
 
 ---
-![alt text](update-data-table-item-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/update-data-table-item.png)
 
 ## **Configuration Details**
 

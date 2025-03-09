@@ -1,9 +1,10 @@
 # Retrieve Data Table Column into List  
 
+## Description
+
 The **Retrieve Data Table Column into List** feature extracts a specific column from a data table and converts it into a list.  
 
----  
-![alt text](retrieve-data-table-column-into-list.png)
+![alt text](../../assests/workflow-logics/assests%20variable/retrieve-data-table-column-into-list.png)
 
 ## Configuration Options  
 
@@ -15,8 +16,6 @@ The **Retrieve Data Table Column into List** feature extracts a specific column 
 
 - **Output**  
   - **ColumnAsList**: The generated list containing all values from the specified column.  
-
----  
 
 ## Input & Output Example  
 
@@ -34,6 +33,8 @@ The **Retrieve Data Table Column into List** feature extracts a specific column 
 |----------------|----------------|
 | `"EmpName"`    | `["Alice", "Bob", "Charlie"]` |
 
----  
+---
 
-This feature is useful for **extracting specific attributes** from structured data tables for further processing. 🚀  
+## Summary
+
+This feature is useful for **extracting specific attributes** from structured data tables for further processing.

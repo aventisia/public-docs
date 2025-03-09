@@ -6,7 +6,7 @@ The **Change Text Case** operation modifies the letter case of a given text stri
 
 ---
 
-![alt text](change-text-case-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/change-text-case.png)
 
 ## **Input Parameters**
 

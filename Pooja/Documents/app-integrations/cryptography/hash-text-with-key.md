@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for generating a hash value from a given text using a specified hashing algorithm and a hash key.
 
-![alt text](hash-text-with-key-1.png)
+![alt text](../../app-integrations/cryptography/hash-text-with-key.md)
 
 ---
 

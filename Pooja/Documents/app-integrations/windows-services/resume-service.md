@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface where users can resume a specific service. The interface provides options to specify the service and confirm the action.
 
-![alt text](resume-service-1.png)
+![alt text](../../assests/app-integrations/assests%20windows-services/resume-service.png)
 
 ---
 

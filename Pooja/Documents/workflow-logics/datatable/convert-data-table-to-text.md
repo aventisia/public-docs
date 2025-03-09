@@ -1,11 +1,12 @@
 # **Convert Data Table to Text**  
 
-## **Overview**  
+## **Description**  
 
 This operation converts the data table **DT_StudentData** into a text-based format, such as CSV.  
 
-![alt text](convert-data-table-to-text1-1.png)
-![alt text](convert-data-table-to-text2-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/convert-data-table-to-text1.png)
+
+![alt text](../../assests/workflow-logics/assests%20datatable/convert-data-table-to-text2.png)
 
 ## **Input Parameters**  
 
@@ -22,7 +23,9 @@ This operation converts the data table **DT_StudentData** into a text-based form
 |------------|-------------|
 | **CSVText** | The variable where the converted CSV result will be stored. |
 
-## **Effect**  
+---
+
+## **Summary**  
 
 - Converts **DT_StudentData** into a **text-based** format.  
 - Includes **column names** in the first row.  

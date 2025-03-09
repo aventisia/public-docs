@@ -4,7 +4,7 @@
 
 This operation appends a new line of text to an existing text value.
 
-![alt text](append-line-to-text-1.png)
+![alt text](../../assests/data-transformation/assests%20text-action/append-line-to-text.png)
 
 ## **Input Parameters**
 

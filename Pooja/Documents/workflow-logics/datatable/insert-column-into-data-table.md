@@ -1,10 +1,12 @@
 # **Insert Column into Data Table**
 
+## **Description**
+
 This configuration allows inserting a new column into the specified data table.
 
 ---
 
-![alt text](insert-column-into-data-table-1.png)
+![alt text](../../assests/workflow-logics/assests%20datatable/insert-column-into-data-table.png)
 
 ## **Configuration Details**
 

@@ -1,9 +1,10 @@
 # Truncate Number  
 
+## Description
+
 The **Truncate Number** feature allows users to modify a numerical value by extracting specific parts or applying rounding rules.  
 
----  
-![alt text](truncate-number.png)
+![alt text](../../assests/workflow-logics/assests%20variable/truncate-number.png)
 
 ## Configuration Options  
 
@@ -36,5 +37,7 @@ The **Truncate Number** feature allows users to modify a numerical value by extr
 | `0.99`                | Round number        | `1`                          |
 
 ---  
+
+## Summary
 
 This feature is particularly useful for **data transformation**, **decimal handling**, and **ensuring numerical precision** in calculations.  

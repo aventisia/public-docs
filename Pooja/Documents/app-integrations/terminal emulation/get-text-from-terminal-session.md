@@ -4,9 +4,9 @@
 
 This screenshot demonstrates an interface for extracting text from an active terminal session. Users can specify the source of the text (e.g., the entire screen or a specific field) and configure additional parameters such as label, index, text length, and row.
 
-![alt text](get-text-from-terminal-session1-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/get-text-from-terminal-session1.png)
 
-![alt text](get-text-from-terminal-session2-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/get-text-from-terminal-session2.png)
 
 ---
 

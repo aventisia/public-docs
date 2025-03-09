@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for searching for specific text within an active terminal session. Users can specify the text to search for, whether it’s a regular expression or plain text, and configure advanced settings if needed.
 
-![alt text](search-for-text-on-terminal-session-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/search-for-text-on-terminal-session.png)
 
 ---
 

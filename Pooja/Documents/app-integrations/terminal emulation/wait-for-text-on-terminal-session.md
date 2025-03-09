@@ -4,7 +4,7 @@
 
 This screenshot demonstrates an interface for waiting until specific text appears in an active terminal session. Users can specify the text to wait for, whether it’s a regular expression or plain text, and define the location (e.g., screen or field) where the text should appear.
 
-![alt text](wait-for-text-on-terminal-session-1.png)
+![alt text](../../assests/app-integrations/assests%20terminal%20emulation/wait-for-text-on-terminal-session.png)
 
 ---
 
