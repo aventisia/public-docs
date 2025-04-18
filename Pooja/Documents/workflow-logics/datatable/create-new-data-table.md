@@ -6,7 +6,6 @@ This configuration dialog allows you to define a new empty data table for use in
 
 ![Create New Data Table UI](../../assests/workflow-logics/assests%20datatable/create-new-data-table.png)
 
-
 ## Fields and Options
 
 ### **1. Data Table**

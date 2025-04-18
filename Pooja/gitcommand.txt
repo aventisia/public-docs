@@ -1,0 +1,9 @@
+#Git push command
+git add .
+git commit -m "message"
+git push or git push origin
+
+
+#Git clone folder
+copy clone url from GitHub
+
